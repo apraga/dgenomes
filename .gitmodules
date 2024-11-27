@@ -1,0 +1,5 @@
+[submodule "vep_human"]
+	path = vep_human
+	url = git@github.com:apraga/vep_human
+	datalad-id = 948eadce-6b93-486e-9c15-e9855da5cb28
+	datalad-url = git@github.com:apraga/vep_human
