@@ -1,8 +1,3 @@
-[submodule "vep-human"]
-	path = vep-human
-	url = git@github.com:apraga/vep-human
-	datalad-id = 948eadce-6b93-486e-9c15-e9855da5cb28
-	datalad-url = git@github.com:apraga/vep-human
 [submodule "clinvar"]
 	path = clinvar
 	url = git@github.com:apraga/clinvar
