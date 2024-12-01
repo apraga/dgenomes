@@ -13,3 +13,7 @@
 	url = git@github.com:apraga/genome-human
 	datalad-id = d7714756-f058-49c6-9034-735a0797eb6b
 	datalad-url = git@github.com:apraga/genome-human
+[submodule "vep-human"]
+	path = vep-human
+	url = git@github.com:apraga/vep-human
+	datalad-id = 605d0b6e-b898-4d7b-aba2-5381df3a9c87
