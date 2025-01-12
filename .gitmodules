@@ -13,3 +13,8 @@
 	url = https://github.com/apraga/clinvar
 	datalad-id = d495a3d4-ad22-45b0-9b22-7b04ec00cd74
 	datalad-url = https://github.com/apraga/clinvar
+[submodule "genome-human"]
+	path = genome-human
+	url = https://github.com/apraga/genome-human
+	datalad-id = 460329d5-25ca-476d-a32f-bf18f9033948
+	datalad-url = https://github.com/apraga/genome-human
