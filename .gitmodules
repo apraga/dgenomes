@@ -18,3 +18,8 @@
 	url = https://github.com/apraga/genome-human
 	datalad-id = 460329d5-25ca-476d-a32f-bf18f9033948
 	datalad-url = https://github.com/apraga/genome-human
+[submodule "dbsnp"]
+	path = dbsnp
+	url = https://github.com/apraga/dbsnp
+	datalad-id = fcc4064f-76de-4bdb-9091-33924a39da4f
+	datalad-url = https://github.com/apraga/dbsnp
