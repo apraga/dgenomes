@@ -3,3 +3,8 @@
 	url = https://github.com/apraga/vep-human
 	datalad-id = 75244065-c46c-4424-8432-43eaa00c92ea
 	datalad-url = https://github.com/apraga/vep-human
+[submodule "cadd"]
+	path = cadd
+	url = https://github.com/apraga/cadd
+	datalad-id = 18ad1c60-9fd5-4432-bee4-1bf1ae5dc13f
+	datalad-url = https://github.com/apraga/cadd
