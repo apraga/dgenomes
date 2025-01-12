@@ -8,3 +8,8 @@
 	url = https://github.com/apraga/cadd
 	datalad-id = 18ad1c60-9fd5-4432-bee4-1bf1ae5dc13f
 	datalad-url = https://github.com/apraga/cadd
+[submodule "clinvar"]
+	path = clinvar
+	url = https://github.com/apraga/clinvar
+	datalad-id = d495a3d4-ad22-45b0-9b22-7b04ec00cd74
+	datalad-url = https://github.com/apraga/clinvar
