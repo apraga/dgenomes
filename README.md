@@ -3,12 +3,12 @@ References and annotation files for human germline analysis pipeline.
 Similar to [iGenomes](https://emea.support.illumina.com/sequencing/sequencing_software/igenome.html) but with [Datalad](https://www.datalad.org/) and (somewhat) more up-to-date data.
 Follows the [YODA](https://handbook.datalad.org/en/latest/basics/101-127-yoda.html) principle for reproducible research.
 
-Availabe datasets:
+Availabe datasets in GRCh38:
 - [x] Clinvar (VCF)
-- [ ] CADD score
-- [ ] dbSNP
+- [x] CADD score
+- [x] dbSNP
 - [x] Reference genome
-- [ ] VEP cache
+- [x] VEP cache
 
 ## Disclaimer
 - Dataset are not downloaded by default. Use `datalad get` to download them.
